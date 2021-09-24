@@ -12,3 +12,5 @@ This repo is used to document repcipes practiced overtime.
 - [Garlic Ginger Basil Salmon](./garlic-ginger-basil-salmon.md)
 
 - [Tuscan Black Pepper Beef](./tuscan-black-pepper-beef.md)
+
+- [beef seasoned with soy sauce](./beef-seasoned-with-soy-sauce.md)
