@@ -8,10 +8,14 @@ This file contains a recipe about making "Chicken Breast and cherry tomato pasta
 
 
 # 调料
-盐
-黑胡椒
-百里香
-辣椒粉
+
+- 盐
+
+- 黑胡椒
+
+- 百里香
+
+- 辣椒粉
 
 # 烹调时间
 
