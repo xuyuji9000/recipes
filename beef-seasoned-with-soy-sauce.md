@@ -18,3 +18,8 @@ This file contains a recipe about making "beef seasoned with soy sauce"(酱牛�
 - 草果 / Black cardamom 
 - 小茴香 / cumin
 
+# Reference 
+
+- [厨师长教你酱牛肉的家常做法，好吃得停不下来](https://www.youtube.com/watch?v=Lk8pPuOTxpU)
+
+- [酱牛肉 肉酥 筋软 味道香 三酱牛肉的秘诀](https://www.youtube.com/watch?v=esz2fBMGkPE)
