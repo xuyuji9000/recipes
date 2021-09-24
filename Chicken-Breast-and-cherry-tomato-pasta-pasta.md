@@ -1,6 +1,6 @@
 This file contains a recipe about making "Chicken Breast and cherry tomato pasta pasta".
 
-鸡胸肉意面
+鸡胸小番茄肉意面
 
 ## 准备鸡胸肉
 
