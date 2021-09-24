@@ -16,3 +16,5 @@ This repo is used to document repcipes practiced overtime.
 - [beef seasoned with soy sauce](./beef-seasoned-with-soy-sauce.md)
 
 - [Garlic Shrimp](Garlic-Shrimp.md)
+
+- [Ginger juice](Ginger-juice.md)
