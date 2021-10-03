@@ -11,6 +11,7 @@ Material:
 - plum: 1 KG
 
     > Apple also works
+    > Suggested to use prune(西梅) by Joy, should be able to find on Meituan.
 
 - white sugar(白砂糖): 1 Cup
 
