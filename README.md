@@ -24,3 +24,5 @@ This repo is used to document repcipes practiced overtime.
 - [simple bread recipe](simple-bread-recipe.md)
 
 - [Bolognese Pasta](./Bolognese-Pasta.md)
+
+- [Creamy Garlic Mushroom Pasta](Creamy-Garlic-Mushroom-Pasta.md)
