@@ -26,3 +26,5 @@ This repo is used to document repcipes practiced overtime.
 - [Bolognese Pasta](./Bolognese-Pasta.md)
 
 - [Creamy Garlic Mushroom Pasta](Creamy-Garlic-Mushroom-Pasta.md)
+
+- [German-Bread-Dumplings](./German-Bread-Dumplings.md)
