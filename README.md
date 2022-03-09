@@ -19,12 +19,8 @@ This repo is used to document repcipes practiced overtime.
 
 - [Ginger juice](Ginger-juice.md)
 
-- [Chicken Breast and cherry tomato pasta pasta](Chicken-Breast-and-cherry-tomato-pasta-pasta.md) 
-
 - [simple bread recipe](simple-bread-recipe.md)
 
-- [Bolognese Pasta](./Bolognese-Pasta.md)
-
-- [Creamy Garlic Mushroom Pasta](Creamy-Garlic-Mushroom-Pasta.md)
-
 - [German-Bread-Dumplings](./German-Bread-Dumplings.md)
+
+- [pasta recipes](./pasta-recipes/Readme.md)
