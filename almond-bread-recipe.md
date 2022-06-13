@@ -12,6 +12,9 @@ This file documents a almond bread recipe.
 
 - Salt: a pinch
 
+# Steps
+
+180 C oven for 45min.
 
 # Reference
 
