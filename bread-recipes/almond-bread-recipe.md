@@ -1,4 +1,4 @@
-This file documents a almond bread recipe.
+This file documents an almond bread recipe.
 
 # Ingredients
 
