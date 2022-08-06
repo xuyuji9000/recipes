@@ -1,7 +1,12 @@
-# recipes
-
 This repo is used to document repcipes practiced overtime.
 
+# Recipes
+
+- [bread-recipes](bread-recipes/Readme.md)
+
+- [drinks-recipes](./drinks-recipes/Readme.md)
+
+- [pasta-recipes](./pasta-recipes/Readme.md)
 
 - [Irish Lamb Stew](./irish-lamb-stew.md)
 
@@ -17,10 +22,6 @@ This repo is used to document repcipes practiced overtime.
 
 - [Garlic Shrimp](Garlic-Shrimp.md)
 
-- [Ginger juice](Ginger-juice.md)
-
 - [simple bread recipe](simple-bread-recipe.md)
 
 - [German-Bread-Dumplings](./German-Bread-Dumplings.md)
-
-- [pasta recipes](./pasta-recipes/Readme.md)
