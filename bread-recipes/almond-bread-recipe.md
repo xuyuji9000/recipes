@@ -1,4 +1,4 @@
-This file documents a almond bread recipe.
+This file documents an almond bread recipe.
 
 # Ingredients
 
@@ -21,6 +21,8 @@ This file documents a almond bread recipe.
 - [How to Make Keto Friendly Bread (Very Easy)](https://www.ketoconnect.net/best-keto-bread/)
 
 - [Keto Bread - Delicious Low Carb Bread - Soft with No Eggy Taste](https://www.youtube.com/watch?v=B7e1m6CPaBY)
+
+    > Video
 
 - [How to Melt Butter in the Microwave](https://www.masterclass.com/articles/how-to-melt-butter#how-to-melt-butter-in-the-microwave)
 
