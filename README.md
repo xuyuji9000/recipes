@@ -20,6 +20,8 @@ This repo is used to document repcipes practiced overtime.
 
 - [beef seasoned with soy sauce](./beef-seasoned-with-soy-sauce.md)
 
+- [1kg plus striploin steak](./striploin-steak-1kg-plus.md)
+
 - [Garlic Shrimp](Garlic-Shrimp.md)
 
 - [simple bread recipe](simple-bread-recipe.md)
