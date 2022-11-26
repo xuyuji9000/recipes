@@ -4,5 +4,8 @@ This file documents mashed potato recipe.
 
 - [Mashed Potatoes Recipe](https://www.youtube.com/watch?v=HfdFlenF6XI)
 
+  > Video
+
 - [Mashed Potatoes](https://preppykitchen.com/mashed-potatoes/)
 
+  > Article
