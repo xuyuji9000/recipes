@@ -4,7 +4,7 @@ This repo is used to document repcipes practiced overtime.
 
 - [bread-recipes](bread-recipes/Readme.md)
 
-- [blue-cheese-pizza](blue-cheese-pizza/Readme.md)
+- [blue-cheese-pizza](blue-cheese-pizza.md)
 
 - [drinks-recipes](./drinks-recipes/Readme.md)
 
