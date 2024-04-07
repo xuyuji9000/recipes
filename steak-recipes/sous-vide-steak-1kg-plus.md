@@ -19,6 +19,10 @@ Add aromatics.
     And the garlic and aromatics in the butter bath to give more flavor.
     > [Sous Vide Basics: STEAK SEARING!](https://www.youtube.com/watch?v=JK4P37UwfU8)
 
+- Steak Juice
+
+    > 4:40 [煎牛排的那些事 小高姐6分钟内全部讲清楚](https://www.youtube.com/watch?v=PUCLToWjMKs)
+    > It mentions about simple steps of steak juice.
 
 
 # Reference
