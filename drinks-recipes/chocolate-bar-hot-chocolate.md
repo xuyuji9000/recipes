@@ -1,3 +1,9 @@
+## Table of Contents
+
+- [Chocolate Bar Hot Chocolate](#chocolate-bar-hot-chocolate)
+  - [Ingredients](#ingredients)
+  - [Instructions](#instructions)
+
 # Chocolate Bar Hot Chocolate
 
 This is a simple, delicious hot chocolate made directly from a milk chocolate bar.
@@ -7,9 +13,11 @@ This is a simple, delicious hot chocolate made directly from a milk chocolate ba
 
 ## Ingredients
 
-* 1 (1.55 ounce / 44g) bar milk chocolate, chopped
-* 2/3 cup milk (or more to taste) (about 160 ml)
-* 1 pinch ground cinnamon
+| Ingredient                            | Amount                   |
+|---------------------------------------|--------------------------|
+| Milk chocolate bar (chopped)          | 1 (1.55 oz / 44g)        |
+| Milk                                  | 2/3 cup (about 160 ml)   |
+| Ground cinnamon (pinch)               | To taste                 |
 
 ## Instructions
 
@@ -22,3 +30,13 @@ This is a simple, delicious hot chocolate made directly from a milk chocolate ba
 ***
 
 *Source: [Allrecipes - Chocolate Bar Hot Chocolate](https://www.allrecipes.com/recipe/229421/chocolate-bar-hot-chocolate/)*
+
+***
+
+## Trial Tracking
+
+| # | date          | description          |
+|---|------------   |--------------------  |
+| 1 | 2026-07-04    | I used 100% black chocolate.<br>The result was too bitter. |
+
+
